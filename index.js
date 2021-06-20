@@ -61,7 +61,7 @@ if (command === "ping") {
 }
 if (command === "buy") {
     message.channel.send(new Discord.MessageEmbed()
-        .setDescription(`$25 for Lifetime, DM **Saku#0002** for more info`)
+        .setDescription(`$25 for Lifetime, DM **Zxit#9136** for more info`)
         .setColor("PURPLE")
         .setFooter(message.guild.name, message.guild.iconURL({
             dynamic: true
